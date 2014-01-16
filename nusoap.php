@@ -1,6 +1,6 @@
 <?php
 
-/*
+/*dd
 $Id: nusoap.php,v 1.114 2007/11/06 15:17:46 snichol Exp $
 
 NuSOAP - Web Services Toolkit for PHP
@@ -20,7 +20,7 @@ Lesser General Public License for more details.
 You should have received a copy of the GNU Lesser General Public
 License along with this library; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
-
+sdfsfsdddd
 The NuSOAP project home is:
 http://sourceforge.net/projects/nusoap/
 
