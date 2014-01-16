@@ -5,7 +5,7 @@ $Id: nusoap.php,v 1.114 2007/11/06 15:17:46 snichol Exp $
 sdfdsfs
 NuSOAP - Web Services Toolkit for PHP
 
-Copyright (c) 2002 NuSphere Corporation
+Copyright (c) 2002 NuSphere Corporationsddfsdfsd
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
